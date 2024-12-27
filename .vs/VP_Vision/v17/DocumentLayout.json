@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\VP_Vision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:configurationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\camcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:camcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:arduinocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:resulthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:imageprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|c:\\users\\user\\source\\repos\\vp_vision\\directorywatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB2528F-3C2B-43F8-8C6C-DCFF8E6C1C45}|VP_Vision.csproj|solutionrelative:directorywatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T10:10:42.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArduinoController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\ArduinoController.cs",
+              "RelativeDocumentMoniker": "ArduinoController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\ArduinoController.cs",
+              "RelativeToolTip": "ArduinoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T08:28:52.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigurationManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\ConfigurationManager.cs",
+              "RelativeDocumentMoniker": "ConfigurationManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\ConfigurationManager.cs",
+              "RelativeToolTip": "ConfigurationManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:46:34.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultHandler.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\ResultHandler.cs",
+              "RelativeDocumentMoniker": "ResultHandler.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\ResultHandler.cs",
+              "RelativeToolTip": "ResultHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:46:14.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImageProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\ImageProcessor.cs",
+              "RelativeDocumentMoniker": "ImageProcessor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\ImageProcessor.cs",
+              "RelativeToolTip": "ImageProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:45:47.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DirectoryWatcher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\DirectoryWatcher.cs",
+              "RelativeDocumentMoniker": "DirectoryWatcher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\DirectoryWatcher.cs",
+              "RelativeToolTip": "DirectoryWatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:45:25.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\CamController.cs",
+              "RelativeDocumentMoniker": "CamController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\CamController.cs",
+              "RelativeToolTip": "CamController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:45:03.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\VP_Vision\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\VP_Vision\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T07:34:29.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
